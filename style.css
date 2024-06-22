@@ -1,0 +1,16 @@
+.btn
+{
+    text-transform: capitalize;
+    font-size: larger;
+    align-items: center;
+    height: 60px;
+}
+.Operators
+{
+   color: white;
+   text-decoration: none;
+}
+.btn:hover
+{
+    transform: scale(1.03);
+}
